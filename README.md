@@ -7,4 +7,5 @@ date: 31 May 2021
 
 <center>
 <img src="covid_cases.png">
+<img src="deaths.png">
 </center>
